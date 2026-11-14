@@ -1,0 +1,6 @@
+shipment_id,customer,lat,lon,weight_lb,volume_cuft,earliest_h,latest_h,cargo_class
+T1,Dayton OH,39.759,-84.192,6000,500,8,17,GENERAL
+T2,Cincinnati OH,39.103,-84.512,8000,600,8,17,GENERAL
+T3,Indianapolis IN,39.768,-86.158,7000,550,8,41,GENERAL
+T4,Cleveland OH,41.499,-81.694,500,40,8,17,GENERAL
+T5,Denver CO,39.739,-104.99,3000,250,8,113,GENERAL
